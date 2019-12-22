@@ -2,7 +2,7 @@ name: circular_border_hero
 description: Advanced Hero widget which will animate border radius as well!
 version: 0.0.1
 author: Danny Lau <kkdlau@connect.ust.hk>
-homepage:
+homepage: https://github.com/kkdlau/circular_border_hero
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
